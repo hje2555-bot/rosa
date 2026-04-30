@@ -1,5 +1,7 @@
 # Changelog
-
+## Contributors
+ hje2555-bot: KGI 기획 및 팀 회의 방향 설정, persona_C.json 작성, 
+  memory_to_rosa.py 개발, 스키마 정합 작업 참여
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
